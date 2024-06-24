@@ -1,0 +1,1 @@
+<script src="{{ global_asset('js/custom.js') }}"></script>
